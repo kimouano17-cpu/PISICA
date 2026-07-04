@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21ff5c059d1982e4d842f211a5493c88, type: 3}
+  m_Name: Broken Guardian
+  m_EditorClassIdentifier: Assembly-CSharp::GuardianDataManager
+  poise: 1
+  enemyName: Broken Guardian
+  enemyHealth: 280
+  enemyStamina: 70
+  enemyDefense: 38
+  enemySpeed: 1.5
+  enemyMinAttackPower: 32
+  enemyMaxAttackPower: 36
+  enemyID: 22602
+  enemyKey: guardian-broken
